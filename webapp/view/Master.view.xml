@@ -63,8 +63,8 @@
 						type="{= ${device>/system/phone} ? 'Active' : 'Inactive'}"
 						press="onSelectionChange"
 						title="{Name}"
-						number="{Price}" numberUnit="{currencyCode}"
-						intro="{category}"
+						number="{Price}" numberUnit="{CurrencyCode}"
+						intro="{Category}"
 >
 					</ObjectListItem>
 				</items>
